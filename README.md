@@ -9,4 +9,4 @@ and ye
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=devjakey&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devjakey&langs_count=5&theme=tokyonight)]()
 
-https://discord.com/users/708635694154776657
+[![My Discord](https://discord.com/users/708635694154776657)]()
