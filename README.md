@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Anything!**
 
-- 📫 How to reach me `**_Jake_#2457**`
+- 📫 How to reach me `_Jake_#2457`
 
 - ⚡ Fun fact **im british**
 
