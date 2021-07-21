@@ -32,4 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devjakey&show_icons=true&locale=en" alt="devjakey" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devjakey&" alt="devjakey" /></p>
-![Jakes’ GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisvillegas&theme=synthwave&show_icons=true&count_private=true “Jakes’ GitHub Stats”)
+[Jakes’ GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisvillegas&theme=synthwave&show_icons=true&count_private=true “Jakes’ GitHub Stats”)
