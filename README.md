@@ -5,16 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devjakey" alt="devjakey" /></a> </p>
 
-- 🔭 I’m currently working on [floppa.pics](https://discord.gg/v43a4prh9K)
+- 🔭 I’m currently working on [Luxxy Hosting](https://discord.gg/Luxxy)
 - 🌱 I’m currently learning **Javascript & Python**
 
-- I'm currently helping with [XDevs](https://github.com/orgs/XDevelopment-Official/dashboard)
+- I'm currently helping with your mum
 
 - 👨‍💻 All of my projects are available at [https://github.com/DevJakey/](https://github.com/DevJakey/)
 
 - 💬 Ask me about **Anything!**
 
-- 📫 How to reach me `_Jake_#2457`
+- 📫 How to reach me `_Jake_#4802`
 
 - ⚡ Fun fact **im british**
 
