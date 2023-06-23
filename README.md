@@ -23,4 +23,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devjakey&" alt="devjakey" /></p>
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<925875435315806258>)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=925875435315806258)
