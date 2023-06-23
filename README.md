@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devjakey" alt="devjakey" /></a> </p>
 
-- 🔭 I’m currently working on [Luxxy Hosting](https://discord.gg/Luxxy)
-- 🌱 I’m currently learning **Javascript & Python**
 
 - I'm currently helping with your mum
 
@@ -14,7 +12,7 @@
 
 - 💬 Ask me about **Anything!**
 
-- 📫 How to reach me `_Jake_#4802`
+- 📫 How to reach me `@jakv.`
 
 - ⚡ Fun fact **im british**
 
